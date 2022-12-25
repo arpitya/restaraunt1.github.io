@@ -1,6 +1,6 @@
 
 # "Experience the Richness of Mughalai Cuisine at our Darbar!"
-![App Screenshot](https://github.com/arpitya/restaraunt1.github.io/blob/main/resources/img/logo-white%20(2).png)
+![App Screenshot](https://raw.githubusercontent.com/arpitya/restaraunt1.github.io/main/resources/img/logo-white.png?size=10)
 
 
 
@@ -27,30 +27,30 @@ It often displays a call-to-action button.
 <br>![App Screenshot](https://github.com/arpitya/restaraunt1.github.io/blob/main/screenshot/Picture2.png)
 
 3. **Top Food images** <br>
-<br> It shows the images of Darbar best food.
+<br> It shows the images of Darbar best food.<br>
 <br>![App Screenshot](https://github.com/arpitya/restaraunt1.github.io/blob/main/screenshot/Picture3.png)
 
 4. **How it Works** <br>
-<br>Represetation how to subscribe plan and download mobile app.
+<br>Represetation how to subscribe plan and download mobile app.<br>
 <br>![App Screenshot](https://github.com/arpitya/restaraunt1.github.io/blob/main/screenshot/Picture4.png)
 
 5. **Places** -<br>
-<br>Places where this restarunt is.
+<br>Places where this restaraunt is.<br>
 <br>![App Screenshot](https://github.com/arpitya/restaraunt1.github.io/blob/main/screenshot/Picture5.png)
 
 6. **Subscription plans** -<br>
-<br>Shows the plan for subscription.
+<br>Shows the plan for subscription.<br>
 <br>![App Screenshot](https://github.com/arpitya/restaraunt1.github.io/blob/main/screenshot/Picture6.png)
 
 7. **Review** -<br>
-<br>Shows review from customer.
+<br>Shows review from customer.<br>
 <br>![App Screenshot](https://github.com/arpitya/restaraunt1.github.io/blob/main/screenshot/Picture7.png)
 
 8. **Suggestion** -<br>
-<br>Take suggestion from customer.
+<br>Take suggestion from customer.<br>
 <br>![App Screenshot](https://github.com/arpitya/restaraunt1.github.io/blob/main/screenshot/Picture8.png)
 
-## Link for website
+##  🔗 Link for website
 
 - **``https://arpitya.github.io/restaraunt1.github.io/``**
 
