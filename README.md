@@ -19,11 +19,11 @@ The ``Mugalai Darba`` is designed to provide a service facility to the restauran
 ## Screenshots
 1. **Hero section** <br> 
 <br>This section is the first impression of your website. 
-It often displays a call-to-action button.
+It often displays a call-to-action button.<br>
 <br>![App Screenshot](https://github.com/arpitya/restaraunt1.github.io/blob/main/screenshot/Picture1.png)
 
 2. **About**<br>
-<br>It helps the reader to understand what your restaurant is about.
+<br>It helps the reader to understand what your restaurant is about.<br>
 <br>![App Screenshot](https://github.com/arpitya/restaraunt1.github.io/blob/main/screenshot/Picture2.png)
 
 3. **Top Food images** <br>
