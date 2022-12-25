@@ -52,7 +52,7 @@ It often displays a call-to-action button.
 
 ## Link for website
 
-**``https://arpitya.github.io/restaraunt1.github.io/``**
+- **``https://arpitya.github.io/restaraunt1.github.io/``**
 
 
 
