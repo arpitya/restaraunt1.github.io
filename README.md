@@ -1,5 +1,5 @@
 
-# "Experience the Richness of Mughalai Cuisine at our Darbar!
+# "Experience the Richness of Mughalai Cuisine at our Darbar!"
 ![App Screenshot](https://github.com/arpitya/restaraunt1.github.io/blob/main/resources/img/logo-white%20(2).png)
 
 
